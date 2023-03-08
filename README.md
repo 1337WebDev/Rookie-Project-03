@@ -1,6 +1,6 @@
 # Web Dev Club - kanban task management app
 
-![Design preview for the kanban task management app coding challenge](./design/desktop-preview.jpg)
+![Design preview for the kanban task management app coding challenge](./design/desktop-preview.png)
 
 You can find a live preview at [Kanban Task Management App](https://kanban-task-management-app.netlify.app/)
 
